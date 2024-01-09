@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0
+}
+#position {
+    position: relative;
+}
+ .position{
+    position: absolute;
+    top: 100px;
+    left:50% ;
+ }
